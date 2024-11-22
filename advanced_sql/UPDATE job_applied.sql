@@ -18,3 +18,5 @@ UPDATE job_applied
 SET contact = 'Big Head' 
 WHERE job_id = 5;
 
+SELECT * 
+FROM job_applied;
