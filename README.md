@@ -123,7 +123,7 @@ LIMIT 5;
 
 ![](assets\3_top_demanded_skills.png)
 
-*Table pf the demand for the top 5 skills in Data Analyst job postings.*
+*Table of the demand for the top 5 skills in Data Analyst job postings.*
 
 ## 4. Skills Based on Salary:
 Exploring the average salaries associated with different skills revealed which skills are the highest paying.
