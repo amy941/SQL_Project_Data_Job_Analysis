@@ -261,6 +261,8 @@ Specialized skills like **SVN and Solidity** command the highest average salarie
 **SQL** is in high demand with a strong salary, making it key for data analysts to maximize market value. 
 
 ## Closing Thoughts:
-This SQL Project boosted my SQL skills and provided insights into the data analyst job market, guiding skill development and job search. By focusing on high-demand, high-salary skills, aspiring analysts can better postiion themselves in a competitive market, emphasizing the need for continuous learning and adaptation 💜💜💜
+Right now is 10:47 pm on a frigid Saturday night, Nov 30/2024. I'm drained at this point, things I'm craving for are: 😪☕🍜🍙🍫🥤... And I think I might take a few days off from SQL. 
+Last but not least, for those who make this far, happy December! Have a merry Christmas 🎄 and a blissful New Year 2025 ✨
+
 
 
