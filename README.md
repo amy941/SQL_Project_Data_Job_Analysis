@@ -192,7 +192,7 @@ average_salary AS (
     GROUP BY        
         skills_job_dim.skill_id       
 )    
-
+-- SOS: My brain cells are dead at this point hahahahahahahaha
 SELECT
     skills_demand.skill_id,
     skills_demand.skills,
