@@ -121,7 +121,7 @@ LIMIT 5;
 - **SQL** and **Excel** are essential, highlighting the importance of foundational data processing and spreadsheet abilities.
 - **Programming** and **Viz Tools** like **Python, Tableau,** and **PowerBI** are also crucial for data analysis and viz in data storytelling and decision-making. 
 
-![](assets\3_top_demanded_skills.png)
+![Alt Text](assets\3_top_demanded_skills.png)
 
 *Table of the demand for the top 5 skills in Data Analyst job postings.*
 
@@ -154,7 +154,7 @@ Insights on Top-Paying Skills for Data Analysts:
 
 - **Emerging Tech Demand:**  Skills like Databricks, Kubernetes, and Airflow indicate a focus on scalable data management, orchestration, and modern infrastructure in top-paying roles.
 
-![](assets\4_top_paying_skills.png)
+![Alt Text](assets\4_top_paying_skills.png)
 
 *Table of the average salary for the top 10 paying skills for Data Analysts.*
 
@@ -238,7 +238,7 @@ LIMIT 25;
 - **Business Intelligence and Visualization Tools:** Tableau and Looker are in high demand with avg salaries of $99K and $103K, emphasizing the importance of data viz and Business Intelligence in extracting actionable insights. 
 - **Database Technologies:** Skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) are in demand, with salaries ranging from $97K to $104K, hihglighting the ongoing need for data storage and management expertise.
 
-![](assets\5_optimal_skills.png)
+![Alt Text](assets\5_optimal_skills.png)
 *Table of the most optimal skills for Data Analysts sorted by salary.*
 
 # What I learned
