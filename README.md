@@ -249,11 +249,16 @@ LIMIT 25;
 # Conclusions
 ## Insights
 From the analysis, several general insights emerged:
-### 1. **Top-paying Data Analyst Jobs:** Top remote data analyst jobs offer salaries up to **$650K.**
-### 2. **Skills for Top-Paying Jobs:** High-paying data analyst jobs require **advanced SQL** proficiency for top salaries.
-### 3. **Most In-Demand Skills:** **SQL** is the most high-demand skill for data analyst job seekers.
-### 4. **Skills with Higher Salaries:** Specialized skills like **SVN and Solidity** commnand the highest average salaries, reflecting the value of niche expertise.
-### 5. **Optimal Skills for Job Market Value:** **SQL** is in high demand with a strong salary, making it key for data analysts to maximize market value. 
+### 1. **Top-paying Data Analyst Jobs:** 
+Top remote data analyst jobs offer salaries up to **$650K.**
+### 2. **Skills for Top-Paying Jobs:** 
+High-paying data analyst jobs require **advanced SQL** proficiency for top salaries.
+### 3. **Most In-Demand Skills:** 
+**SQL** is the most high-demand skill for data analyst job seekers.
+### 4. **Skills with Higher Salaries:** 
+Specialized skills like **SVN and Solidity** commnand the highest average salaries, reflecting the value of niche expertise.
+### 5. **Optimal Skills for Job Market Value:**
+**SQL** is in high demand with a strong salary, making it key for data analysts to maximize market value. 
 
 ## Closing Thoughts:
 This SQL Project boosted my SQL skills and provided insights into the data analyst job market, guiding skill development and job search. By focusing on high-demand, high-salary skills, aspiring analysts can better postiion themselves in a competitive market, emphasizing the need for continuous learning and adaptation 💜💜💜
