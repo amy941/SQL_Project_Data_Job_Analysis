@@ -209,7 +209,7 @@ ORDER BY
 LIMIT 25;
 ```
 
-REWRITE this query above in 'shorter' version:
+REWRITE this query above in 'cleaner' version:
 ```sql
 SELECT  
     skills_dim.skill_id,
